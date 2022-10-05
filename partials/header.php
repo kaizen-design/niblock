@@ -1,12 +1,3 @@
-<?php
-  $links = [
-    'Home' => $path,
-    'Services' => $path . 'services/',
-    'Join the Team' => $path . 'employment/',
-    'Contact' => $path . 'contact/'
-  ];
-?>
-
 <!-- Preloader -->
 <div class="preloader"></div>
 
